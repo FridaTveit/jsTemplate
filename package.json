@@ -1,0 +1,10 @@
+{
+    "name": "jsTemplate",
+    "version": "1.0.0",
+    "description": "Template for javascript projects",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "fjt"
+}
