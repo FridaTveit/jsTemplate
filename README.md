@@ -6,6 +6,8 @@ to allow the use of [ES6 features](https://www.fullstackreact.com/articles/what-
 
 Tests are setup using [Jest](https://jest-bot.github.io/jest/).
 
+Linting is setup using [eslint](https://eslint.org/docs/rules/).
+
 # Running the template
 * Cone this repository
 
